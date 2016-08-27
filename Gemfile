@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'devise'
 
 gem 'rspotify'
 gem 'rails', '~> 5.0.0', '>= 5.0.0.1'
